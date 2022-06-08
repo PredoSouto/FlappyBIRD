@@ -1,10 +1,15 @@
 namespace FlappyBIRD
 {
-    public partial class Form1 : Form
+    public partial class FlappyBird : Form
     {
-        public Form1()
+        public FlappyBird()
         {
             InitializeComponent();
+        }
+
+        private void pictureBox3_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
